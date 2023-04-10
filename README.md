@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @310038
+- 👋 Hi, I’m 吳祥銘
 - 👀 I’m interested in Java and Web 
 - 🌱 I’m currently learning Database  and Java
 
